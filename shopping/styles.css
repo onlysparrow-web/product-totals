@@ -1,8 +1,13 @@
 table,
 th,
 td {
-  border: 1px solid black;
-  font-size: 20px;
+    border: 1px solid black;
+    font-size: 20px;
+    text-align: center;
+    height: 70px;
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
 }
 * {
   font-family: sans-serif;
